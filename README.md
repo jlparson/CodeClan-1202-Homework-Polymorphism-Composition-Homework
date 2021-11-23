@@ -24,14 +24,26 @@
 
 **Composition and Aggregation**
 
-6. What do we mean by 'composition' in reference to object-oriented programming?
+**6. What do we mean by 'composition' in reference to object-oriented programming?**
 
-7. When would you use composition? Provide a simple example in Java.
+**Answer:** In OOP, composition is when a class is composed or made up of instances of another class. This means it uses instances of another class as properties.
 
-8. Give a difference between composition and aggregation?
+**7. When would you use composition? Provide a simple example in Java.**
 
-9. What is/are the advantage(s) of using composition/aggregation?
+**Answer:** You would use composition when one object is made up of other objects. For example, if you had a class of HumanBody it would be composed of a Heart, Brain, Kidney, etc.
 
-10. When using composition, when an object is destroyed, what happens to all the objects it is composed of?
+**8. Give a difference between composition and aggregation?**
 
-11. When using aggregation, when an object is destroyed, what happens to all the objects it is composed of?
+**Answer:** A difference between composition and aggregation is that with aggregation, the objects it has can exist independently from the object that contains it. 
+
+**9. What is/are the advantage(s) of using composition/aggregation?**
+
+**Answer:** The advantages of using composition are that we can reuse code without having to rely on inheritance. Using inheritance only can be limiting because one class can only inherit from another class on their inheritance chain. Another advantage is that composition offers us good testability of a class.
+
+**10. When using composition, when an object is destroyed, what happens to all the objects it is composed of?**
+
+**Answer:** When the object is destroyed, all of the objects it is composed of cease to exist.
+
+**11. When using aggregation, when an object is destroyed, what happens to all the objects it is composed of?**
+
+**Answer:** When the object is destroyed, the objects it is composed of still exist independently from the object.
