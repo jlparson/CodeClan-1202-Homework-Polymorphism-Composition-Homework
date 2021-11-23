@@ -1,24 +1,24 @@
 # CodeClan-1202-Homework-Polymorphism-Composition-Homework
-Polymorphism
-What does the word 'polymorphism' mean?
+**Polymorphism**
+1. What does the word 'polymorphism' mean?
 
-What does it mean when we apply polymorphism to OO design? Give a simple Java example.
+2. What does it mean when we apply polymorphism to OO design? Give a simple Java example.
 
-What can we use to implement polymorphism in Java?
+3. What can we use to implement polymorphism in Java?
 
-How many 'forms' can an object take when using polymorphism?
+4. How many 'forms' can an object take when using polymorphism?
 
-Give an example of when you could use polymorphism.
+5. Give an example of when you could use polymorphism.
 
-Composition and Aggregation
-What do we mean by 'composition' in reference to object-oriented programming?
+**Composition and Aggregation**
+6. What do we mean by 'composition' in reference to object-oriented programming?
 
-When would you use composition? Provide a simple example in Java.
+7. When would you use composition? Provide a simple example in Java.
 
-Give a difference between composition and aggregation?
+8. Give a difference between composition and aggregation?
 
-What is/are the advantage(s) of using composition/aggregation?
+9. What is/are the advantage(s) of using composition/aggregation?
 
-When using composition, when an object is destroyed, what happens to all the objects it is composed of?
+10. When using composition, when an object is destroyed, what happens to all the objects it is composed of?
 
-When using aggregation, when an object is destroyed, what happens to all the objects it is composed of?
+11. When using aggregation, when an object is destroyed, what happens to all the objects it is composed of?
