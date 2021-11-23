@@ -1,5 +1,7 @@
 # CodeClan-1202-Homework-Polymorphism-Composition-Homework
+
 **Polymorphism**
+
 1. What does the word 'polymorphism' mean?
 
 2. What does it mean when we apply polymorphism to OO design? Give a simple Java example.
@@ -11,6 +13,7 @@
 5. Give an example of when you could use polymorphism.
 
 **Composition and Aggregation**
+
 6. What do we mean by 'composition' in reference to object-oriented programming?
 
 7. When would you use composition? Provide a simple example in Java.
